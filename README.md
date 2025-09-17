@@ -1,5 +1,5 @@
 
-# DIO | Resumos Git e Gi
+# DIO | Resumos Git e GitHub
 
 Repositório do curo Avanade Git e GitHub, para aprendizado sobre versionamento de
 código.
